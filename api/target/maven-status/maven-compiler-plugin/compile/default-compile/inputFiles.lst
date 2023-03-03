@@ -1,0 +1,7 @@
+/Users/theunsb/Stuff/Projects/temp/es-cqrs/api/src/main/java/com/breytenbach/escqrs/model/HouseSellCommand.java
+/Users/theunsb/Stuff/Projects/temp/es-cqrs/api/src/main/java/com/breytenbach/escqrs/model/HouseSellEvent.java
+/Users/theunsb/Stuff/Projects/temp/es-cqrs/api/src/main/java/com/breytenbach/escqrs/model/HousePurchaseCommand.java
+/Users/theunsb/Stuff/Projects/temp/es-cqrs/api/src/main/java/com/breytenbach/escqrs/model/HousePurchaseEvent.java
+/Users/theunsb/Stuff/Projects/temp/es-cqrs/api/src/main/java/com/breytenbach/escqrs/model/HouseSummaryFilter.java
+/Users/theunsb/Stuff/Projects/temp/es-cqrs/api/src/main/java/com/breytenbach/escqrs/model/FetchHouseSummaryQuery.java
+/Users/theunsb/Stuff/Projects/temp/es-cqrs/api/src/main/java/com/breytenbach/escqrs/model/HouseSummary.java

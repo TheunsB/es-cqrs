@@ -1,0 +1,8 @@
+com/breytenbach/escqrs/vehicleupdate/VehicleSummaryProjection.class
+com/breytenbach/escqrs/vehicleupdate/House.class
+com/breytenbach/escqrs/Main.class
+com/breytenbach/escqrs/vehicleupdate/AppConfig.class
+com/breytenbach/escqrs/vehicleupdate/HousePurchasePayload.class
+com/breytenbach/escqrs/vehicleupdate/HouseController.class
+com/breytenbach/escqrs/vehicleupdate/HousePurchasePayload$HousePurchasePayloadBuilder.class
+com/breytenbach/escqrs/vehicleupdate/NotFoundException.class
