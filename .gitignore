@@ -17,7 +17,7 @@
 hs_err_pid*
 
 # maven files
-.target/
+target/
 
 # intellij files
-.idea/
+idea/
