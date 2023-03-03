@@ -4,7 +4,7 @@ This is a demo application for event sourcing and CQRS built with spring boot.
 ## Getting Started
 
 ### Prerequisites
-- Java 8
+- Java 11
 - Maven 3.3.9
 - Docker
 
